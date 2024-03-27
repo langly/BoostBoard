@@ -2898,6 +2898,28 @@
 		)
 		(uuid "f87adc12-9cb4-4140-89f3-144e665ae3ce")
 	)
+	(global_label "toggle"
+		(shape input)
+		(at 160.02 92.71 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "46fa9a06-fa66-4da3-930e-fefdffdd7a65")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 151.7625 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "CS"
 		(shape input)
 		(at 163.576 105.41 90)

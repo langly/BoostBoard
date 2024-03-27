@@ -503,7 +503,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber-v0.1-D/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
